@@ -3,7 +3,6 @@
 <div align="center">
 
 ## It's me :)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsoo513&show_icons=true&theme=shadow_green)
 <br/><br/>
 
 ## Tech stacks
