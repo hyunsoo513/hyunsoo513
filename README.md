@@ -3,7 +3,8 @@
 <div align="center">
 
 ## It's me 🌱
-Hello! My name is Hyeonsu Park. I am a backend developer who enjoys learning new skills.
+Hello! My name is Hyeonsu Park.
+I am a backend developer who enjoys learning new skills.<br/>
 I am passionate about seeking fresh challenges and opportunities to grow as a developer.
 <br/><br/>
 
